@@ -1,0 +1,6 @@
+.centered-name {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    height: 100vh; /* Set a height to center vertically within the viewport */
+}
