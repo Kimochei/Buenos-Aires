@@ -2,7 +2,7 @@ import React from 'react';
 
 import './miguelstyles.css'; // Import your CSS file
 
-function MiguelS() {
+function MiguelL() {
     return (
         <div className="centered-name">
             Lacanienta, Miguel M. SN: 2019130430
@@ -10,4 +10,4 @@ function MiguelS() {
     );
 }
 
-export default MiguelS;
+export default MiguelL;
